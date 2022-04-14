@@ -5,8 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Maximilian Schwarzmüller / Academind GmbH",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "dependencies": {
     "express": "^4.17.1",
     "body-parser": "^1.19.0"

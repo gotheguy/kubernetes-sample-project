@@ -14,7 +14,7 @@ spec:
     spec: 
       containers:
         - name: story
-          image: riverofcustard/kub-data-demo
+          image: # Add image name
           env:
             - name: STORY_FOLDER
               valueFrom:
